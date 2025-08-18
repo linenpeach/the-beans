@@ -1,6 +1,6 @@
 # The Beans
 
-This is a simple HTML-only website that introduces my beans (aka my pets) -- Emmy, Stella, Finn, and Izzy.
+This is a simple HTML-only website that introduces my beans (aka my pets) -- Emmy, Stella, Finn, Izzy, and Paulo.
 
 ## Purpose
 
