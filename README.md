@@ -27,3 +27,4 @@ Things I didn't know going into this project that I now know:
 - How to create a simple GitHub pages site for your repository
 - How to use the code element in HTML (`<code>`) to denote a snippet of inline code
 - How to debug the use of the code element using HTML entities (such as `&lt;` and `&gt;` for `<` and `>`, respectively)
+- How to use the inspect element in the browser to test visual changes (such as image width) before adding them to my project
