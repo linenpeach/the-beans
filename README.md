@@ -21,3 +21,9 @@ And also to:
 ## How It's Made
 
 ****Tech used:**** HTML
+
+## What I Learned
+Things I didn't know going into this project that I now know:
+- How to create a simple GitHub pages site for your repository
+- How to use the code element in HTML (`<code>`) to denote a snippet of inline code
+- How to debug the use of the code element using HTML entities (such as `&lt;` and `&gt;` for `<` and `>`, respectively)
